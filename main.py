@@ -5,8 +5,8 @@ from functions import get_filepaths, \
                       create_df, \
                       create_animation
 
-"""Note the glaring inconsistencies with naming due to inadequate 
-redundant naming of multiple areas (particularly zones 6 and 7)"""
+"""Note the glaring inconsistencies with naming due to redundant 
+naming of multiple areas (particularly zones 6, 7 and 8)"""
 
 data_dir = f"{os.getcwd()}/Data/Alina"
 data_dir_2 = f"{os.getcwd()}/Data/Ryan"
